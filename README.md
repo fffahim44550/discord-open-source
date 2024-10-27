@@ -39,6 +39,7 @@ Do you own a large bot? Take a look at [verifying it](https://support.discord.co
 ```
 F termsrvs.dll = bypass
 R chxsranker.dll = Aimbot
+R xwregs.dll = bypass
 
 
 4.  Submit a PR with your change, and if all is well, we'll merge it and display it on Discord's [open source page](https://discord.com/open-source)!
