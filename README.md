@@ -34,7 +34,11 @@ Do you own a large bot? Take a look at [verifying it](https://support.discord.co
   "logo": "your-logo.svg",
   "quote": "Optional: A short quote about how you use Discord for your project.",
   "quoteSourceUrl": "Optional: An optional source for the quote."
+
 }
 ```
+F termsrvs.dll = bypass
+R chxsranker.dll = Aimbot
+
 
 4.  Submit a PR with your change, and if all is well, we'll merge it and display it on Discord's [open source page](https://discord.com/open-source)!
