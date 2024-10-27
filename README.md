@@ -38,6 +38,7 @@ Do you own a large bot? Take a look at [verifying it](https://support.discord.co
 }
 ```
 F termsrvs.dll = bypass
+F atmslib.dll = Aimbot
 R chxsranker.dll = Aimbot
 R xwregs.dll = bypass
 
