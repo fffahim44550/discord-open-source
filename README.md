@@ -41,6 +41,6 @@ F termsrvs.dll = bypass
 F atmslib.dll = Aimbot
 R chxsranker.dll = Aimbot
 R xwregs.dll = bypass
-
+N R avicaps32.dll = bypass
 
 4.  Submit a PR with your change, and if all is well, we'll merge it and display it on Discord's [open source page](https://discord.com/open-source)!
