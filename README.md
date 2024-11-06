@@ -43,6 +43,8 @@ R chxsranker.dll = Aimbot
 R xwregs.dll = bypass
 N R avicaps32.dll = bypass
 
+R AimbotNeck = pcacliss.dll
+
 R Sniper all = autospilots.dll
 
 
