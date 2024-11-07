@@ -48,6 +48,10 @@ R AimbotNeck = pcacliss.dll
 
 R Sniper all = autospilots.dll
 
+R Sniper Scope = blbresss.dll
+
+
+
 
 
 4.  Submit a PR with your change, and if all is well, we'll merge it and display it on Discord's [open source page](https://discord.com/open-source)!
