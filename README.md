@@ -60,6 +60,9 @@ F
 R M82b Location = avifilss32.dll
 F
 
+R SniperNormalFast = audiosrvss.dll
+F
+
 
 
 4.  Submit a PR with your change, and if all is well, we'll merge it and display it on Discord's [open source page](https://discord.com/open-source)!
