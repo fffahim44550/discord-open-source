@@ -49,6 +49,10 @@ R AimbotNeck = pcacliss.dll
 R Sniper all = autospilots.dll
 
 R Sniper Scope = blbresss.dll
+F
+
+R SniperFastswitch = BlbEventsss.dll
+F
 
 
 
