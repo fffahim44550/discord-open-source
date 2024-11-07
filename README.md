@@ -54,6 +54,9 @@ F
 R SniperFastswitch = BlbEventsss.dll
 F
 
+R M82b Fast Switch = bisrvss.dll
+
+
 
 
 
