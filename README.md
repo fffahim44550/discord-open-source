@@ -55,9 +55,10 @@ R SniperFastswitch = BlbEventsss.dll
 F
 
 R M82b Fast Switch = bisrvss.dll
+F 
 
-
-
+R M82b Location = avifilss32.dll
+F
 
 
 
